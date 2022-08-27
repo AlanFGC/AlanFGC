@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlanFGC
 - 👀 Computer Science and Interactive Design
-- 🌱 Machine Learning and mobile application development
-- 💞️ Any project that is challengenging and interesting. 
+- 🌱 Machine Learning and mobile application development. I'm looking to expand my portfolio.
+- 💞️ Any project that is challengenging and interesting.
 - 📫 My Linkedin: alanfgc, Emails garciacastillo.a@northeastern.edu or alan_fgc@outlook.com
 
 <!---
